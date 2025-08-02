@@ -1,6 +1,6 @@
 # I'm a webhook!
 ## Send messages to discord webhooks easily
-### Made by Snujus
+Made by Snujus
 
 ### Windows x64 download
 ### [Click here](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_win-64.exe)
