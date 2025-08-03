@@ -3,7 +3,7 @@
 Made by Snujus
 
 
-# Newest version: [Webhook v1.1 download](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_v1-1.exe)
+# Newest version: [Webhook v1.1 download](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_1-1.exe)
 
 ## Changelog:
 ### Version 1.1
