@@ -15,4 +15,4 @@ Made by Snujus
 
 # Older versions
 Version 1.1: [Webhook v1.1 download](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_1-1.exe)
-Version 1.0: [Windows x64 download](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_win-64.exe)
+Version 1.0: [Webhook v1.0 download](https://github.com/snuius/im_a_webhook/raw/refs/heads/main/Release/webhook_win-64.exe)
